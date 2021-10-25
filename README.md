@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felipeortizvi
 - 👀 I’m interested in Progressing as a CS Master
-- 🌱 I’m currently learning COmputer Engineering
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Exciting Projects!
 - 📫 How to reach me felipeortizv19@gmail.com
 
